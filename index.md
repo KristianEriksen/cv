@@ -9,7 +9,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="cv/image/circle-cropped.png" alt="badass"></td>
+            <td><img src="image/circle-cropped.png" alt="badass"></td>
             <td>
                 <h1>Kristian</h1>
                 <p> <em>Barnehageasistent</em></p>
