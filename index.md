@@ -8,8 +8,11 @@
 
 <body>
     <table cellspacing="20">
+        <tbody>
         <tr>
-            <td><img src="https://kristianeriksen.github.io/cv/image/circle-cropped.png" alt="badass" width="250"></td> 
+            <td>
+                <img src="https://kristianeriksen.github.io/cv/image/circle-cropped.png" alt="badass" width="250">
+            </td> 
             <td>
                 <h1>Kristian</h1>
                 <p> <em>Barnehageasistent</em></p>
@@ -17,6 +20,7 @@
                 <p>Jeg jobber som barnehageassistent og på fritiden studerer jeg web utvikling.</p>
             </td>
         </tr>
+        <tbody>
     </table>
     <hr size="3" noshade>
     <h3>Utdanning:</h3>
