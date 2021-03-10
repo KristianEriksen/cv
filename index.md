@@ -11,7 +11,7 @@
         <tbody>
         <tr>
             <td>
-                <img src="https://tricityjudo.com/wp-content/uploads/2019/08/brazilian-jiu-jitsu.jpg" alt="badass" width="250">
+                <img src="image/circle-cropped.png" width="250"/>
             </td> 
             <td>
                 <h1>Kristian</h1>
@@ -68,6 +68,5 @@
             </td>
     <a href="hobbies.html">My Hobbies</a>
     <a href="contact.html">Contact Me</a>
-    <img src="https://tricityjudo.com/wp-content/uploads/2019/08/brazilian-jiu-jitsu.jpg" alt="badass" width="250">
 </html>
 
