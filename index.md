@@ -11,7 +11,7 @@
         <tbody>
         <tr>
             <td>
-                <img src="image/circle-cropped.png" alt="badass" width="250">
+                <img src="https://tricityjudo.com/wp-content/uploads/2019/08/brazilian-jiu-jitsu.jpg" alt="badass" width="250">
             </td> 
             <td>
                 <h1>Kristian</h1>
