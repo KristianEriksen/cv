@@ -7,7 +7,6 @@
 </head>
 
 <body>
-    <img src="image/circle-cropped.png" alt="badass" width="250">
     <table cellspacing="20">
         <tbody>
         <tr>
@@ -69,25 +68,5 @@
             </td>
     <a href="hobbies.html">My Hobbies</a>
     <a href="contact.html">Contact Me</a>
-
-
 </html>
 
-
-
-<!--<table border="1">
-    <thead>
-    </thead>
-    <tbody>
-        <tr>
-            <td>C# &#11088;&#11088;&#11088;</td>
-            <td>Blender &#11088;&#11088;</td>
-        </tr>
-        <tr>
-            <td>Unity &#11088;</td>
-            <td>HTML and CSS &#11088;</td>
-        </tr>
-        <tfoot>
-        </tfoot>
-    </tbody>
-</table>-->
