@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 
 <head>
-    <meta charset="utf">
+    <meta charset="utf-8">
     <title>&#127866; Kristian's Personal Side</title>
 </head>
 
@@ -17,7 +17,7 @@
                 <h1>Kristian</h1>
                 <p> <em>Barnehageasistent</em></p>
                 <br>
-                <p>Jeg johgfdhfgdhgfdhfdghfghfghbber som barnehageassistent og på fritiden studerer jeg web utvikling.</p>
+                <p>Jeg som barnehageassistent og på fritiden studerer jeg web utvikling.</p>
             </td>
         </tr>
         <tbody>
