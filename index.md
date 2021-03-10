@@ -15,9 +15,9 @@
             </td> 
             <td>
                 <h1>Kristian</h1>
-                <p> <em>Barnehageasistent retretreretret</em></p>
+                <p> <em>Barnehageasistent</em></p>
                 <br>
-                <p>Jeg jobber som barnehageassistent og på fritiden studerer jeg web utvikling.</p>
+                <p>Jeg johgfdhfgdhgfdhfdghfghfghbber som barnehageassistent og på fritiden studerer jeg web utvikling.</p>
             </td>
         </tr>
         <tbody>
