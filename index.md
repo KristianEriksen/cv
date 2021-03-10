@@ -7,11 +7,12 @@
 </head>
 
 <body>
+    <img src="image/circle-cropped.png" alt="badass" width="250">
     <table cellspacing="20">
         <tbody>
         <tr>
             <td>
-                <img src="https://kristianeriksen.github.io/cv/image/circle-cropped.png" alt="badass" width="250">
+                <img src="image/circle-cropped.png" alt="badass" width="250">
             </td> 
             <td>
                 <h1>Kristian</h1>
