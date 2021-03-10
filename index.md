@@ -68,5 +68,6 @@
             </td>
     <a href="hobbies.html">My Hobbies</a>
     <a href="contact.html">Contact Me</a>
+    <img src="https://tricityjudo.com/wp-content/uploads/2019/08/brazilian-jiu-jitsu.jpg" alt="badass" width="250">
 </html>
 
